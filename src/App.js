@@ -40,6 +40,15 @@ function App() {
 
       </div>
 
+      <footer className='footer'>
+
+        <div className='credit'>
+
+          &#169;   2024  <span> MV  <strong>Developer</strong></span>    All Rights Reserved.
+        </div>
+
+      </footer>
+
     </div>
   );
 }
